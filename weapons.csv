@@ -30,11 +30,11 @@ Siegfried,Sword,Red,16,distant counter,
 Sieglinde,Sword,Red,16,hone attack 2,
 Silver Sword,Sword,Red,11,,
 Silver Sword+,Sword,Red,15,,
-Slaying Edge,Sword,Red,10,cdr 1
-Slaying Edge+,Sword,Red,14,cdr 1
-Sol Katti,Sword,Red,16,desperation 2
+Slaying Edge,Sword,Red,10,cdr 1,
+Slaying Edge+,Sword,Red,14,cdr 1,
+Sol Katti,Sword,Red,16,desperation 2,
 Steel Sword,Sword,Red,8,,
-Tyrfing,Sword,Red,16,defiant def 2
+Tyrfing,Sword,Red,16,defiant def 2,
 Wo Dao,Sword,Red,9,wo dao,
 Wo Dao+,Sword,Red,13,wo dao,
 Yato,Sword,Red,16,darting blow 2,
@@ -131,21 +131,21 @@ Sealife Tome+,Tome,Blue,12,drive atk/spd 1,
 Thoron,Tome,Blue,9,,
 Thoron+,Tome,Blue,13,,
 Thunder,Tome,Blue,4,,
-Valaskjalf,Tome,Blue,13,vantage 2
+Valaskjalf,Tome,Blue,13,vantage 2,
 Weirding Tome,Tome,Blue,13,spd 3,spd ploy 3
 Dark Breath,Breath,Blue,9,,
 Dark Breath+,Breath,Blue,13,,
 Fire Breath,Breath,Blue,6,,
 Fire Breath+,Breath,Blue,8,,
-Light Breath,Breath,Blue,9,light breath
-Light Breath+,Breath,Blue,13,light breath
+Light Breath,Breath,Blue,9,light breath,
+Light Breath+,Breath,Blue,13,light breath,
 Lightning Breath,Breath,Blue,7,distant counter,
 Lightning Breath+,Breath,Blue,11,distant counter,
 Armads,Axe,Green,16,quick riposte 2,
 Brave Axe,Axe,Green,5,brave,
 Brave Axe+,Axe,Green,8,brave,
-Carrot Axe,Axe,Green,9,carrot
-Carrot Axe+,Axe,Green,13,carrot
+Carrot Axe,Axe,Green,9,carrot,
+Carrot Axe+,Axe,Green,13,carrot,
 Emerald Axe,Axe,Green,8,triangle adept 3,
 Emerald Axe+,Axe,Green,12,triangle adept 3,
 Hammer,Axe,Green,8,anti armor,
