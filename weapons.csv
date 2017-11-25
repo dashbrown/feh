@@ -1,0 +1,313 @@
+Name,Type,Color,Mt,Effect1,Effect2
+Alondite,Sword,Red,16,distant counter,
+Amiti,Sword,Red,11,brave,spd 3
+Armorslayer,Sword,Red,8,anti armor,
+Armorslayer+,Sword,Red,12,anti armor,
+Armorsmasher,Sword,Red,0,,
+Armorsmasher+,Sword,Red,0,,
+Audhulma,Sword,Red,16,cdr 1,res 5
+Ayra's Blade,Sword,Red,16,spd+3,heavy spd
+Binding Blade,Sword,Red,16,close defense 1,distant defense 1
+Blazing Durandal,Sword,Red,16,atk 3,heavy atk
+Brave Sword,Sword,Red,5,brave,
+Brave Sword+,Sword,Red,8,brave,
+Divine Tyrfing,Sword,Red,16,res 3,divine tyrfing
+Durandal,Sword,Red,16,death blow 2,
+Echesachs,Sword,Red,16,threaten defense 2,
+Falchion,Sword,Red,16,anti breath,renewal 2
+Folkvangr,Sword,Red,16,defiant attack 2,
+Iron Sword,Sword,Red,6,,
+Killing Edge,Sword,Red,7,cdr 1,
+Killing Edge+,Sword,Red,11,cdr 1,
+Mystletainn,Sword,Red,16,cdr 1,
+Ragnell,Sword,Red,16,distant counter,
+Raijinto,Sword,Red,16,distant counter,
+Regal Blade,Sword,Red,16,regal blade,
+Resolute Blade,Sword,Red,16,attack 3, wo dao
+Ruby Sword,Sword,Red,8,triangle adept 3,
+Ruby Sword+,Sword,Red,12,triangle adept 3,
+Siegfried,Sword,Red,16,distant counter,
+Sieglinde,Sword,Red,16,hone attack 2,
+Silver Sword,Sword,Red,11,,
+Silver Sword+,Sword,Red,15,,
+Slaying Edge,Sword,Red,10,cdr 1
+Slaying Edge+,Sword,Red,14,cdr 1
+Sol Katti,Sword,Red,16,desperation 2
+Steel Sword,Sword,Red,8,,
+Tyrfing,Sword,Red,16,defiant def 2
+Wo Dao,Sword,Red,9,wo dao,
+Wo Dao+,Sword,Red,13,wo dao,
+Yato,Sword,Red,16,darting blow 2,
+Zanbato,Sword,Red,10,anti cavalry,
+Zanbato,Sword,Red,14,anti cavalry,
+Bolganone,Tome,Red,9,,
+Bolganone+,Tome,Red,13,,
+Brynhildr,Tome,Red,14,move 1,
+Cymbeline,Tome,Red,14,cymbeline,
+Elfire,Tome,Red,6,,
+Fenrir,Tome,Red,9,,
+Fenrir+,Tome,Red,13,,
+Fire,Tome,Red,4,,
+Flux,Tome,Red,4,,
+Grimoire,Tome,Red,14,,
+Keen Raudrwolf,Tome,Red,0,,
+Keen Raudrwolf+,Tome,Red,0,,
+Ragnarok,Tome,Red,14,ragnarok,
+Raudrblade,Tome,Red,9,blade,
+Raudrblade+,Tome,Red,13,blade,
+Raudrowl,Tome,Red,6,owl,
+Raudrowl+,Tome,Red,10,owl,
+Raudrraven,Tome,Red,7,raven,
+Raudrraven+,Tome,Red,11,raven,
+Raudrwolf,Tome,Red,6,anti cavalry,
+Raudrwolf+,Tome,Red,10,anti cavalry,
+Ruin,Tome,Red,6,,
+Tomato Tome,Tome,Red,8,drive atk 1, drive spd 1
+Tomato Tome+,Tome,Red,12,drive atk 1, drive spd 1
+Valflame,Tome,Red,14,attack ploy 2,res ploy 2
+Fire Breath,Breath,Red,6,,
+Fire Breath+,Breath,Red,8,,
+Flametongue,Breath,Red,11,,
+Flametongue+,Breath,Red,15,,
+Lightning Breath,Breath,Red,7,distant counter,
+Lightning Breath+,Breath,Red,11,distant counter,
+Berkut's Lance,Lance,Blue,10,warding stance 2,
+Berkut's Lance+,Lance,Blue,14,warding stance 2,
+Brave Lance,Lance,Blue,5,brave,
+Brave Lance+,Lance,Blue,8,brave,
+Carrot Lance,Lance,Blue,9,carrot,
+Carrot Lance+,Lance,Blue,13,carrot,
+Cursed Lance,Lance,Blue,16,fury 2,cdr 1
+Deft Harpoon,Lance,Blue,10,deft,
+Deft Harpoon+,Lance,Blue,14,deft,
+Fensalir,Lance,Blue,16,threaten attack 2
+Firesweep Lance,Lance,Blue,11,firesweep,
+Firesweep Lance+,Lance,Blue,15,firesweep,
+First Bite,Lance,Blue,10,first bite,
+First Bite+,Lance,Blue,14,first bite,
+Geirskogul,Lance,Blue,16,def 3,drive atk/spd 3
+Gradivus,Lance,Blue,16,distant counter,
+Heavy Spear,Lance,Blue,8,anti armor,
+Heavy Spear+,Lance,Blue,12,anti armor,
+Iron Lance,Lance,Blue,6,,
+Killer Lance,Lance,Blue,7,cdr 1,
+Killer Lance+,Lance,Blue,11,cdr 1,
+Leiptr,Lance,Blue,16,distant counter,
+Ridersbane,Lance,Blue,10,anti cavalry,
+Ridersbane+,Lance,Blue,14,anti cavalry,
+Sapphire Lance,Lance,Blue,8,triangle adept 3,
+Sapphire Lance+,Lance,Blue,12,triangle adept 3,
+Siegmund,Lance,Blue,16,hone atk 3,
+Silver Lance,Lance,Blue,11,,
+Silver Lance+,Lance,Blue,15,,
+Slaying Lance,Lance,Blue,10,cdr 1,
+Slaying Lance+,Lance,Blue,14,cdr 1,
+Slaying Spear,Lance,Blue,0,,
+Slaying Spear+,Lance,Blue,0,,
+Steel Lance,Lance,Blue,8,,
+Vidofnir,Lance,Blue,16,vidofnir,
+Aura,Tome,Blue,14,breath of life 2,
+Blarblade,Tome,Blue,9,blade,
+Blarblade+,Tome,Blue,13,blade,
+Blarowl,Tome,Blue,6,owl,
+Blarowl+,Tome,Blue,10,owl,
+Blarraven,Tome,Blue,7,raven,
+Blarraven+,Tome,Blue,11,raven,
+Blarwolf,Tome,Blue,6,anti cavalry,
+Blarwolf+,Tome,Blue,10,anti cavalry,
+Blessed Bouquet,Tome,Blue,8,blessed bouquet,
+Blessed Bouquet+,Tome,Blue,12,blessed bouquet,
+Blue Egg,Tome,Blue,7,carrot,
+Blue Egg+,Tome,Blue,11,carrot,
+Dancer's Score,Tome,Blue,8,breath of life 3,
+Dancer's Score,Tome,Blue,12,breath of life 3,
+Dark Aura,Tome,Blue,14,dark aura,
+Dire Thunder,Tome,Blue,9,brave,
+Elthunder,Tome,Blue,6,,
+Keen Blarwolf,Tome,Blue,0,,
+Keen Blarwolf+,Tome,Blue,0,,
+Sealife Tome,Tome,Blue,8,drive atk/spd 1,
+Sealife Tome+,Tome,Blue,12,drive atk/spd 1,
+Thoron,Tome,Blue,9,,
+Thoron+,Tome,Blue,13,,
+Thunder,Tome,Blue,4,,
+Valaskjalf,Tome,Blue,13,vantage 2
+Weirding Tome,Tome,Blue,13,spd 3,spd ploy 3
+Dark Breath,Breath,Blue,9,,
+Dark Breath+,Breath,Blue,13,,
+Fire Breath,Breath,Blue,6,,
+Fire Breath+,Breath,Blue,8,,
+Light Breath,Breath,Blue,9,light breath
+Light Breath+,Breath,Blue,13,light breath
+Lightning Breath,Breath,Blue,7,distant counter,
+Lightning Breath+,Breath,Blue,11,distant counter,
+Armads,Axe,Green,16,quick riposte 2,
+Brave Axe,Axe,Green,5,brave,
+Brave Axe+,Axe,Green,8,brave,
+Carrot Axe,Axe,Green,9,carrot
+Carrot Axe+,Axe,Green,13,carrot
+Emerald Axe,Axe,Green,8,triangle adept 3,
+Emerald Axe+,Axe,Green,12,triangle adept 3,
+Hammer,Axe,Green,8,anti armor,
+Hammer+,Axe,Green,12,anti armor,
+Hauteclere,Axe,Green,16,cdr 1,
+Iron Axe,Axe,Green,6,,
+Killer Axe,Axe,Green,7,cdr 1,
+Killer Axe+,Axe,Green,11,cdr 1,
+Legion's Axe,Axe,Green,10,panic,
+Legion's Axe+,Axe,Green,14,panic,
+Lilith Floatie,Axe,Green,10,drive atk/spd 1,
+Lilith Floatie+,Axe,Green,14,drive atk/spd 1,
+Melon Crusher,Axe,Green,10,deft,
+Melon Crusher+,Axe,Green,14,deft,
+Noatun,Axe,Green,16,,
+Silver Axe,Axe,Green,11,,
+Silver Axe+,Axe,Green,15,,
+Slaying Axe,Axe,Green,10,cdr 1,
+Slaying Axe+,Axe,Green,14,cdr 1,
+Slaying Hammer,Axe,Green,0,,
+Slaying Hammer,Axe,Green,0,,
+Steel Axe,Axe,Green,8,,
+Stout Tomahawk,Axe,Green,16,distant counter,
+Uror,Axe,Green,16,,
+Urvan,Axe,Green,16,cdr 1,deflect all
+Dancer's Ring,Tome,Green,8,breath of life 3,
+Dancer's Ring+,Tome,Green,12,breath of life 3,
+Dark Excalibur,Tome,Green,14,wo dao,
+Divine Naga,Tome,Green,14,anti breath,nullify
+Elivagar,Tome,Green,14,,
+Elwind,Tome,Green,6,,
+Excalibur,Tome,Green,14,bow,
+Green Egg,Tome,Green,7,carrot,
+Green Egg+,Tome,Green,11,carrot,
+Gronnblade,Tome,Green,9,blade,
+Gronnblade+,Tome,Green,13,blade,
+Gronnowl,Tome,Green,6,owl,
+Gronnowl+,Tome,Green,10,owl,
+Gronnraven,Tome,Green,7,raven,
+Gronnraven+,Tome,Green,11,raven,
+Gronnwolf,Tome,Green,6,anti cavalry,
+Gronnwolf+,Tome,Green,10,anti cavalry,
+Hibiscus Tome,Tome,Green,8,drive atk/spd 1,
+Hibiscus Tome+,Tome,Green,12,drive atk/spd 1,
+Keen Gronnwolf,Tome,Green,0,,
+Keen Gronnwolf+,Tome,Green,0,,
+Naga,Tome,Green,14,distant defense 1,close defense 1
+Rexcalibur,Tome,Green,9,,
+Rexcalibur+,Tome,Green,13,,
+Spectral Tome,Tome,Green,8,,
+Spectral Tome+,Tome,Green,12,,
+Wind,Tome,Green,4,,
+Fire Breath,Breath,Green,6,,
+Fire Breath+,Breath,Green,8,,
+Light Breath,Breath,Green,9,light breath,
+Light Breath+,Breath,Green,13,light breath,
+Absorb,Staff,Gray,4,,
+Assault,Staff,Gray,10,,
+Fear,Staff,Gray,5,,
+Gravity,Staff,Gray,6,,
+Pain,Staff,Gray,3,,
+Panic,Staff,Gray,7,,
+Slow,Staff,Gray,5,,
+Assassin's Bow,Bow,Gray,7,dagger breaker,
+Assassin's Bow+,Bow,Gray,11,dagger breaker,
+Brave Bow,Bow,Gray,4,brave,
+Brave Bow+,Bow,Gray,7,brave,
+Clarisse's Bow,Bow,Gray,7,,
+Clarisse's Bow+,Bow,Gray,11,,
+Cupid Arrow,Bow,Gray,8,,
+Cupid Arrow+,Bow,Gray,12,,
+Firesweep Bow,Bow,Gray,7,firesweep,
+Firesweep Bow+,Bow,Gray,11,firesweep,
+Fujin Yumi,Bow,Gray,14,pass 2,
+Guard Bow,Bow,Gray,0,,
+Guard Bow+,Bow,Gray,0,,
+Iron Bow,Bow,Gray,4,,
+Killer Bow,Bow,Gray,5,cdr 1,
+Killer Bow+,Bow,Gray,9,cdr 1,
+Monstrous Bow,Bow,Gray,8,panic,
+Monstrous Bow+,Bow,Gray,12,panic,
+Mulagir,Bow,Gray,14,spd 3,mpanic
+Nidhogg,Bow,Gray,14,owl,
+Parthia,Bow,Gray,14,warding blow 2,
+Refreshing Bolt,Bow,Gray,8,deft,
+Refreshing Bolt+,Bow,Gray,12,deft,
+Silver Bow,Bow,Gray,9,,
+Silver Bow+,Bow,Gray,13,,
+Slaying Bow,Bow,Gray,8,cdr 1,
+Slaying Bow+,Bow,Gray,12,cdr 1,
+Steel Bow,Bow,Gray,6,,
+Dancer's Fan,Dagger,Gray,7,breath of life 3,dagger 5
+Dancer's Fan+,Dagger,Gray,10,breath of life 3,dagger 7
+Deathly Dagger,Dagger,Gray,11,dagger 7,pain 7
+Iron Dagger,Dagger,Gray,3,dagger 3,
+Kitty Paddle,Dagger,Gray,5,anti tome,dagger 5
+Kitty Paddle+,Dagger,Gray,8,anti tome,dagger 6
+Poison Dagger,Dagger,Gray,2,anti infantry,dagger 4
+Poison Dagger+,Dagger,Gray,5,anti infantry,dagger 6
+Rogue Dagger,Dagger,Gray,4,dagger 3,rdagger 3
+Rogue Dagger+,Dagger,Gray,7,dagger 5,rdagger 5
+Seashell,Dagger,Gray,7,dagger 5,deft
+Seashell+,Dagger,Gray,10,dagger 7,deft
+Silver Dagger,Dagger,Gray,7,dagger 5,
+Silver Dagger+,Dagger,Gray,10,dagger 7,
+Smoke Dagger,Dagger,Gray,6,dagger 4,
+Smoke Dagger+,Dagger,Gray,9,dagger 6,
+Steel Dagger,Dagger,Gray,5,dagger 3,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
